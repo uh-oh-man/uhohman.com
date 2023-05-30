@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:10:16	60709/60709	---MCZ	200	added ('OK')	text/html	date:Sat,%2006%20May%202023%2002:21:25%20GMT	https://uhohman.carrd.co/	C:/My%20Web%20Sites/uhohman/uhohman.carrd.co/index.html	(from )
+10:10:16	85/85	---M-Z	200	added ('OK')	text/plain	etag:%2245-5fafd10162d40-gzip%22	https://uhohman.carrd.co/robots.txt		(from )
+10:10:17	58257/58257	---M--	200	added ('OK')	image/jpeg	etag:%22e391-5fafd0ff5f340%22	https://uhohman.carrd.co/assets/images/card.jpg?v=7838df14	C:/My%20Web%20Sites/uhohman/uhohman.carrd.co/assets/images/card9273.jpg	(from https://uhohman.carrd.co/)
+10:10:17	119107/119107	---M--	200	added ('OK')	image/jpeg	etag:%221d143-5f90fab8d0dd8%22	https://uhohman.carrd.co/assets/images/bg.jpg?v=7838df14	C:/My%20Web%20Sites/uhohman/uhohman.carrd.co/assets/images/bg9273.jpg	(from https://uhohman.carrd.co/)
+10:10:17	26783/26783	---M--	200	added ('OK')	image/jpeg	etag:%22689f-5f90fab8d40a0%22	https://uhohman.carrd.co/assets/images/image01.jpg?v=7838df14	C:/My%20Web%20Sites/uhohman/uhohman.carrd.co/assets/images/image019273.jpg	(from https://uhohman.carrd.co/)
